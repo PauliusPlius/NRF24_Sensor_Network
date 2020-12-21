@@ -41,7 +41,7 @@ void setup() {
   Serial.println("###### ESP32 MESH MASTER NODE ########");
   Serial.println("######################################");
   Serial.println();
-  Serial.print("NODE ID ");
+  Serial.print("NODE ID  ");
   
   // Set the nodeID to 0 for the master node
   mesh.setNodeID(0);
