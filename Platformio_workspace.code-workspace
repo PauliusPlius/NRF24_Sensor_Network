@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "nRF24_Gateway",
+			"path": "nRF24_Gateway"
+		},
+		{
+			"name": "Arduino_Nano_Sensor",
+			"path": "Arduino_Nano_Sensor"
+		}
+	],
+	"settings": {}
+}
